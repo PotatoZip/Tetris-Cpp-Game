@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestSFML", "TestSFML\TestSFML.vcxproj", "{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Debug|x64.ActiveCfg = Debug|x64
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Debug|x64.Build.0 = Debug|x64
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Debug|x86.Build.0 = Debug|Win32
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Release|x64.ActiveCfg = Release|x64
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Release|x64.Build.0 = Release|x64
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Release|x86.ActiveCfg = Release|Win32
+		{515B913E-F4FA-4AA5-8B7B-47907C2CD2EA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C322B4E-DA58-4AF4-996D-6C0B512029D5}
+	EndGlobalSection
+EndGlobal

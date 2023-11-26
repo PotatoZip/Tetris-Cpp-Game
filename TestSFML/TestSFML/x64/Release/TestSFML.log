@@ -1,0 +1,17 @@
+﻿  TestSFML.cpp
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(63,22): warning C4244: "inicjowanie": konwersja z "_Rep" do "unsigned int", możliwa utrata danych
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(261,22): warning C4244: "argument": konwersja z "float" do "unsigned __int64", możliwa utrata danych
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(265,36): warning C4244: "argument": konwersja z "float" do "const unsigned __int64", możliwa utrata danych
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(265,39): warning C4244: "argument": konwersja z "float" do "const unsigned __int64", możliwa utrata danych
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(270,44): warning C4244: "argument": konwersja z "float" do "const unsigned __int64", możliwa utrata danych
+C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\TestSFML\TestSFML.cpp(270,47): warning C4244: "argument": konwersja z "float" do "const unsigned __int64", możliwa utrata danych
+  Trwa generowanie kodu
+  1 of 411 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  TestSFML.vcxproj -> C:\Users\Wiktor\Desktop\testtt\TestSFML\TestSFML\x64\Release\TestSFML.exe
