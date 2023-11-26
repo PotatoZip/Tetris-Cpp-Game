@@ -9,13 +9,13 @@ First of all clone this repository to your local pc. Then visit [SFML](https://w
 ## Usage
 
 After launching the game it will automatically start running in designed window. The main goal of a player is to arrange falling blocks so they will fit without any gaps on a floor. You can interact with falling blocks with keyboard by using:
-<br />
-"A" - rotates tetromino by -90 degree <br />
-"D" - rotates tetromino by 90 degree <br />
-"S" - immediately move tetromino block into the floor <br />
-"Page Left" - move tetromino block to the left <br />
-"Page Right" - move tetromino block to the right
-<br />
+##
+- "A" - rotates tetromino by -90 degree <br />
+- "D" - rotates tetromino by 90 degree <br />
+- "S" - immediately move tetromino block into the floor <br />
+- "Page Left" - move tetromino block to the left <br />
+- "Page Right" - move tetromino block to the right
+##
 If you manage to fill a whole vertical level with blocks it will clear this area meaning you scored points. The game ends if your lying blocks touch a roof of a board. 
 
 ## Future development
